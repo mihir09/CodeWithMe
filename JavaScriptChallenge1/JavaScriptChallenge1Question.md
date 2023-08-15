@@ -6,7 +6,7 @@ Write a JavaScript program to compare two objects to determine if the first cont
 
 ## Instructions
 
-Navigate to JavaScriptChallenge1.js file. Add you logic at the dedicated space. Don'y modify other contents or files.
+Navigate to JavaScriptChallenge1.js file. Add your logic at the dedicated space. Don't modify other contents or files.
 
 ## Testing
 
